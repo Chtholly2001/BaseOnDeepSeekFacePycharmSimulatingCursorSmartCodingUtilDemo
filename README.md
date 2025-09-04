@@ -1,11 +1,3 @@
-明白啦 👍 我把中英文严格分区显示，方便阅读和直接放到项目文档里。
-
----
-
-## 项目文档（中英双语分区版）
-
-### 中文版
-
 #### 项目背景
 
 当大语言模型出来时，我就在想，大语言模型面向垂直应用端会怎样节省程序员劳动。然后，我看到市面上出现了 **Cursor** 这样的编程智能体。于是我就想：能不能自己也做一个智能编程软件？
@@ -78,8 +70,6 @@ AI 自动编程的成败关键在于提示词的专业性、稳健性、准确�
 
 ---
 
-### English Version
-
 #### Project Background
 
 When large language models (LLMs) emerged, I began to wonder how they could reduce programmers’ workload in vertical applications. Later, I saw the rise of coding agents like **Cursor**. That made me think: could I build my own intelligent coding software?
@@ -149,7 +139,3 @@ Inexperienced programmers, however, tend to write vague prompts, which lead to v
 This project aims to validate the feasibility of **AI auto-programming as a substitute for lightweight repetitive work**. The results so far are impressive and meet expectations.
 
 If you’re interested in the open-source version, feel free to DM me and follow my GitHub — I will publish the source code soon for exchange and reference.
-
----
-
-要不要我帮你把这份 **中英双语分区版** 再整理成 **README.md 模板**（带目录、锚点链接、GitHub 风格标题），直接拷贝进 GitHub 就能用？
