@@ -14,7 +14,7 @@ project_path = r"C:\Users\chtho\PycharmProjects\Yursor\TargetFilesDirectory"
 pycharm_exe = r"C:\Program Files\JetBrains\PyCharm 2025.1.1.1\bin\pycharm64.exe"
 
 # ==== DeepSeek API 配置 ====
-API_KEY = "sk-a7dfaadd7906493a8fd304c118a60ee0"
+API_KEY = "你的deepseek key"
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # ==== 生成随机文件名 ====
